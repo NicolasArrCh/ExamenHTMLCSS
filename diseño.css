@@ -1,0 +1,210 @@
+*{
+    font-family: sans-serif;
+    font-size: 24px;
+    background-color: aqua;
+}
+@media (min-width: 1080px){
+    .principal{
+        display: flow-root;
+    }
+}
+.principal{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 27px;
+    margin: 3%;
+    height: 5350px;
+}
+
+div{background-color: white;}
+p{background-color: white;}
+img{background-color: white;}
+
+.prin p{
+    font-family: sans-serif;
+    font-size: 23px;
+    margin: 3%;
+    text-align: center;
+}
+.prin{
+    margin: 2%;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img01{
+    display: flex;
+}
+
+.clave00{
+    display: flex;
+    margin: 2%;
+    
+}
+.perfil00{
+    text-align: left;
+    flex-direction: column;
+    font-style: normal;
+    font-display: flex;
+    width: 430px;
+    height: 700px;
+}
+.perfil00 > p{
+    text-align: center;
+}
+.prrcolor00{
+    color: rgb(8, 224, 224);
+}
+.medio00{
+    width: 16%;
+    height: 670px;
+}
+.descripción00{
+    text-align: left;
+    align-content: flex-start;
+    display: contents;
+    width: 670px;
+    height: 580px;
+    padding-left: 4px;
+    margin-top: 5%;
+}
+.descripción00, hr{
+    width: 550px;
+    display: flex;
+}
+.descripción00, p{
+    font-weight: normal;
+    text-align: left;
+}
+.clave2{
+    margin: 4%;
+}
+.clave2 hr{
+    width: 900px;
+}
+
+.clave{
+    display: flex;
+    margin: 2%;
+}
+.perfil{
+    text-align: left;
+    flex-direction: column;
+    font-style: normal;
+    font-display: flex;
+    width: 430px;
+    height: 700px;
+}
+.perfil > p{
+    text-align: center;
+}
+.prrcolor{
+    color: rgb(8, 224, 224);
+}
+.medio{
+    width: 16%;
+    height: 670px;
+}
+.descripción{
+    text-align: left;
+    align-content: flex-start;
+    display: contents;
+    width: 670px;
+    height: 580px;
+    padding-left: 4px;
+    margin-top: 5%;
+}
+.descripción, hr{
+    width: 550px;
+    display: flex;
+}
+.descripción, p{
+    font-weight: normal;
+    text-align: left;
+}
+.clave1{
+    margin: 4%;
+}
+.clave1 hr{
+    width: 900px;
+}
+
+
+.clave01{
+    display: flex;
+    margin: 2%;
+}
+.perfil01{
+    text-align: left;
+    flex-direction: column;
+    font-style: normal;
+    font-display: flex;
+    width: 430px;
+    height: 700px;
+}
+.perfil01 > p{
+    text-align: center;
+}
+.prrcolor01{
+    color: rgb(8, 224, 224);
+}
+.medio01{
+    width: 16%;
+    height: 670px;
+}
+.descripción01{
+    text-align: left;
+    align-content: flex-start;
+    display: contents;
+    width: 670px;
+    height: 580px;
+    padding-left: 4px;
+    margin-top: 5%;
+}
+.descripción01, hr{
+    width: 550px;
+    display: flex;
+}
+.descripción01, p{
+    font-weight: normal;
+    text-align: left;
+}
+.clave3{
+    margin: 4%;
+}
+.clave3 hr{
+    width: 900px;
+}
+
+.final{
+    font-style: normal;
+    flex-direction: column;
+    margin: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.final p{
+    text-align: center;
+}
+
+.final1{
+    font-style: normal;
+    flex-direction: column;
+    margin: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.final1 p{
+    text-align: center;
+}
+
+.flexibilidad{
+    margin: 2%;
+    display: flex;
+}
+.flexibilidad, flex3{
+    align-items: center;
+}
